@@ -1,0 +1,6 @@
+name = "BigBagsDoD"
+path = "mod/BigBagsDoD"
+user_dir = "BBag"
+replace_path = "events"
+replace_path = "decisions"
+replace_path = "history/provinces"
